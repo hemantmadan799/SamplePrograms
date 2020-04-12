@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2019-12-31T14:00:19 IST" finished-at="2019-12-31T14:00:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2019-12-31T14:00:19 IST" finished-at="2019-12-31T14:00:19 IST">
+      <class name="patterns.Pattern1">
+        <test-method status="PASS" signature="pattern3_4()[pri:0, instance:patterns.Pattern1@55d56113]" name="pattern3_4" duration-ms="16" started-at="2019-12-31T14:00:19 IST" description="related to pattern 3 n 4" finished-at="2019-12-31T14:00:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pattern3_4 -->
+      </class> <!-- patterns.Pattern1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
